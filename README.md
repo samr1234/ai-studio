@@ -2,7 +2,7 @@
 
 A beautiful, modern React application built with Next.js and TypeScript that simulates an AI-powered image generation studio. Transform your images with various artistic styles through an intuitive, accessible interface.
 
-<!-- ![AI Studio Preview](https://via.placeholder.com/800x400/6366f1/ffffff?text=AI+Studio+Preview) -->
+![AI Studio Preview](https://ai-studio-dun.vercel.app)
 
 ## ✨ Features
 
